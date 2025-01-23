@@ -259,7 +259,7 @@ _"Em construção"_
 🇬🇧 ![English](https://img.shields.io/badge/-English%20(Intermediário)-1B4B94?style=flat)
 
 **Recomendação**
-_"Erick é um desenvolvedor excepcional que combina profunda expertise técnica com uma notável capacidade de empatia. Seu domínio abrangente da cadeia técnica e de negócios permite que ele elucide qualquer tópico com clareza. Suas discussões são sempre enriquecedoras, trazendo pontos perspicazes que contribuem para a evolução do time. Constantemente busca aprimoramento, compartilha conhecimento e traz novas ideias, demonstrando seu comprometimento com a excelência técnica e o crescimento da equipe."_
+_"Erick é um desenvolvedor sênior que combina sólida expertise técnica com significativa capacidade de liderança. Com experiência prévia como Staff Engineer, demonstra amplo domínio da cadeia técnica e de negócios, contribuindo efetivamente nas decisões arquiteturais e técnicas do time. Sua habilidade em comunicar conceitos complexos de forma clara e objetiva facilita o alinhamento entre diferentes equipes. Como líder técnico, tem demonstrado consistência em orientar outros desenvolvedores e contribuir para o crescimento do time. Sua experiência como Staff evidenciou sua capacidade de influenciar decisões técnicas importantes e conduzir iniciativas de mentoria. Mantém um compromisso constante com a qualidade do código e as melhores práticas de desenvolvimento."_
 
 ---
 
