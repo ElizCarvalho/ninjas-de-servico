@@ -39,7 +39,7 @@ _"Em construção"_
 🇬🇧 ![English](https://img.shields.io/badge/-English%20(Básico)-1B4B94?style=flat)
 
 **Recomendação**
-_"Gabriel é um estudante dedicado e proativo, demonstrando grande interesse em aprender novas tecnologias e práticas de desenvolvimento. Sua curiosidade e comprometimento com a qualidade do código são notáveis, mesmo estando no início de sua carreira."_
+_"Gabriel é um profissional dedicado que demonstra consistente interesse em aprender e se desenvolver. Sua disposição para adquirir novos conhecimentos e habilidades técnicas é notável. Mesmo estando no início de sua carreira, já demonstra bom entendimento de práticas de desenvolvimento e comprometimento com a qualidade do código. Sua capacidade de absorver novos conceitos e receptividade a feedbacks são características que contribuem positivamente para seu desenvolvimento profissional."_
 
 ---
 
