@@ -4,7 +4,7 @@ Bem-vindo ao Ninjas de Serviço - um grupo de profissionais de tecnologia pronto
 
 ## Nossos Ninjas
 
-### 🥷 Gabriel Magnago
+### 🥷 GABRIEL MAGNAGO
 
 **Bio**
 _"Em construção"_
@@ -43,7 +43,7 @@ _"Gabriel é um profissional dedicado que demonstra consistente interesse em apr
 
 ---
 
-### 🥷 Marco Ames
+### 🥷 MARCO AMES
 
 **Bio**
 _"Em construção"_
@@ -87,7 +87,7 @@ _"Marco é um desenvolvedor dedicado e proativo, que se destaca por sua capacida
 
 ---
 
-### 🥷 Lucas Gomes
+### 🥷 LUCAS GOMES
 
 **Bio**
 _"Em construção"_
@@ -130,7 +130,7 @@ _"Lucas é um profissional excepcional que se destaca tanto por suas habilidades
 
 ---
 
-### 🥷 Rubens dos Santos
+### 🥷 RUBENS DOS SANTOS
 
 **Bio**
 _"Em construção"_
@@ -174,7 +174,7 @@ _"Rubens é um desenvolvedor versátil e apaixonado por tecnologia, que se desta
 
 ---
 
-### 🥷 Thallison Raniere
+### 🥷 THALLISON RANIERE
 
 **Bio**
 _"Em construção"_
@@ -221,7 +221,7 @@ _"Thallison é um desenvolvedor excepcional que faz uma diferença enorme em qua
 
 ---
 
-### 🥷 Erick Gledson
+### 🥷 ERICK GLEDSON
 
 **Bio**
 _"Em construção"_
@@ -263,7 +263,7 @@ _"Erick é um desenvolvedor sênior que combina sólida expertise técnica com s
 
 ---
 
-### 🥷 Iury Dias
+### 🥷 IURY DIAS
 
 **Bio**
 _"Em construção"_
@@ -308,7 +308,7 @@ _"Iury é um desenvolvedor sênior que se destaca por sua excelência técnica e
 
 ---
 
-### 🥷 Luis Dourado
+### 🥷 LUIS DOURADO
 
 **Bio**
 _"Em construção"_
@@ -356,7 +356,7 @@ _"Dourado é um desenvolvedor excepcional que combina profundo conhecimento téc
 
 ---
 
-### 🥷 Elis Carvalho
+### 🥷 ELIS CARVALHO
 
 **Bio**
 _"Tech Lead com mais de 10 anos de experiência em desenvolvimento de software e gestão de equipes. Especializada em arquiteturas distribuídas, microsserviços e sistemas de alta disponibilidade. Forte experiência em desenvolvimento backend, com foco em performance e escalabilidade. Conduz regularmente 1:1s, mentorias técnicas e sessões de feedback, promovendo o crescimento contínuo do time. Vasta experiência com metodologias ágeis, atuando com Scrum e Kanban, facilitando cerimônias e garantindo a entrega contínua de valor. Comprometida com boas práticas de desenvolvimento e construção de times de alto desempenho."_
