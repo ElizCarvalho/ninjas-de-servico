@@ -83,7 +83,7 @@ _"Em construção"_
 🇬🇧 ![English](https://img.shields.io/badge/-English%20(Básico)-1B4B94?style=flat)
 
 **Recomendação**
-_"Marco é um desenvolvedor versátil e dedicado, com habilidade notável em desenvolvimento web moderno. Sua experiência com múltiplas tecnologias como JavaScript, Java, React e Vue.js demonstra sua capacidade de adaptação e aprendizado contínuo. Tem se destacado por sua proatividade e comprometimento com a qualidade do código."_
+_"Marco é um desenvolvedor dedicado e proativo, que se destaca por sua capacidade de resolver problemas de forma eficiente. Sempre motivado e aberto a novos desafios, tem demonstrado excelente capacidade de adaptação e rápida absorção de novos conhecimentos. Sua postura proativa e disposição para contribuir em diferentes contextos o tornam um profissional valioso para a equipe. O que mais impressiona é sua determinação em buscar soluções e sua abertura constante para novas experiências e aprendizados."_
 
 ---
 
