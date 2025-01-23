@@ -341,7 +341,7 @@ _"Em construção"_
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
@@ -375,26 +375,31 @@ _"Tech Lead com mais de 10 anos de experiência em desenvolvimento de software e
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 
 **Frameworks & Ferramentas**
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat)
+![Message Broker](https://img.shields.io/badge/-Message%20Broker-FF6B6B?style=flat)
 
 **DevOps & Infraestrutura**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Observability](https://img.shields.io/badge/-Observability-000000?style=flat&logo=observability&logoColor=white)
 
 **Idiomas**
 🇧🇷 ![Português](https://img.shields.io/badge/-Português%20(Nativo)-009739?style=flat)
-🇬🇧 ![English](https://img.shields.io/badge/-English%20(Avançado)-1B4B94?style=flat)
+🇬🇧 ![English](https://img.shields.io/badge/-English%20(Básico)-1B4B94?style=flat)
 
 **Recomendação**
 _"Elis é uma líder técnica excepcional que combina uma impressionante trajetória de crescimento com habilidades técnicas e humanas extraordinárias. Sua evolução de estagiária a Tech Lead é marcada por uma capacidade notável de aprendizado rápido e adaptação a novos desafios. Sua expertise técnica, aliada a uma habilidade ímpar de identificar e solucionar problemas complexos, foi crucial no sucesso de diversos projetos críticos. O que a torna verdadeiramente especial é sua capacidade de criar um ambiente de trabalho saudável e produtivo, sempre equilibrando qualidade das entregas com o desenvolvimento profissional da equipe. Sua liderança por competência se manifesta na preocupação genuína com o bem-estar de cada membro do time, promovendo um ambiente de colaboração onde todos se sentem valorizados. Mesmo sob pressão em cenários desafiadores, mantém a serenidade e foco nos objetivos. Sua humildade e disposição para continuar aprendendo, combinadas com sua proatividade e resiliência, fazem dela uma líder inspiradora. É uma profissional completa que une excelência técnica, gestão humanizada e compromisso com resultados, tornando-se uma peça fundamental em qualquer equipe que tenha a sorte de tê-la como líder."_
