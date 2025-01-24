@@ -12,8 +12,8 @@ Welcome to Service Ninjas - a group of technology professionals ready for new ch
 _"In construction"_
 
 **Level & Location**
-![Intern](https://img.shields.io/badge/-Intern-lightgray?style=flat)
-![Remote](https://img.shields.io/badge/-Remote-purple?style=flat)
+![Intern](https://img.shields.io/badge/-Intern-87CEEB?style=flat)
+![Remote](https://img.shields.io/badge/-Remote-8A2BE2?style=flat)
 
 **Networks**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-magnago-78a1ab1b7/)

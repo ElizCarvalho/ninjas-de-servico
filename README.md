@@ -12,8 +12,8 @@ Bem-vindo ao Ninjas de Serviço - um grupo de profissionais de tecnologia pronto
 _"Em construção"_
 
 **Nível & Localização**
-![Estagiário](https://img.shields.io/badge/-Estagiário-lightgray?style=flat)
-![Remoto](https://img.shields.io/badge/-Remoto-purple?style=flat)
+![Estagiário](https://img.shields.io/badge/-Estagiário-87CEEB?style=flat)
+![Remoto](https://img.shields.io/badge/-Remoto-8A2BE2?style=flat)
 ![Rio de Janeiro](https://img.shields.io/badge/-Rio%20de%20Janeiro-gray?style=flat)
 
 **Redes**
