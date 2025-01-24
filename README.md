@@ -1,5 +1,7 @@
 # Ninjas de Serviço 🥷💻
 
+[[English version]](./README.en.md)
+
 Bem-vindo ao Ninjas de Serviço - um grupo de profissionais de tecnologia prontos para novos desafios!
 
 ## Nossos Ninjas

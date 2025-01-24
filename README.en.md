@@ -1,6 +1,8 @@
-# Service Ninjas
+# Service Ninjas 🥷💻
 
-Welcome to the Service Ninjas team! We are a group of technology professionals passionate about creating innovative solutions and delivering high-quality software.
+[[Versão em Português]](./README.md)
+
+Welcome to Service Ninjas - a group of technology professionals ready for new challenges!
 
 ## Our Team
 
@@ -415,4 +417,3 @@ If you are looking for talented ninjas for your team, feel free to reach out to 
 ## About the Project  
 
 This repository was inspired by the project [ninjas-open-to-work](https://github.com/ninjas-open-to-work/ninjas-open-to-work), adapted for our specific group of professionals.
-
