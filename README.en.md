@@ -129,8 +129,10 @@ _"Lucas is an exceptional professional who stands out for both his technical and
 
 ---
 
-4. RUBENS DOS SANTOS
-> Full-stack developer with experience in Python/Django and JavaScript/Node.js, passionate about creating efficient and scalable solutions.
+### 🥷 RUBENS DOS SANTOS
+
+**Bio**
+_"In construction"_
 
 **Level & Location**
 ![Junior/Mid-Level](https://img.shields.io/badge/-Junior%2FMid--Level-gray?style=flat)
@@ -142,29 +144,38 @@ _"Lucas is an exceptional professional who stands out for both his technical and
 
 **Main Technologies**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 **Frameworks & Tools**
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
 
 **DevOps & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 **Languages**
 ![Portuguese (Native)](https://img.shields.io/badge/🇧🇷%20Portuguese-Native-green)
-![English (Intermediate)](https://img.shields.io/badge/🇺🇸%20English-Intermediate-yellow)
-![Spanish (Basic)](https://img.shields.io/badge/🇪🇸%20Spanish-Basic-lightgray)
+![English (Basic)](https://img.shields.io/badge/🇺🇸%20English-Basic-lightgray)
 
 **Recommendation**
-> "Rubens is an exceptional developer who combines deep technical knowledge with a remarkable ability to investigate and solve complex problems. His experience with distributed architectures and microservices, along with his ability to make architectural decisions aligned with business goals, makes him a highly valuable professional. His excellent communication skills, ability to create clear documentation, and proactive approach to mentoring make him stand out. His multilingual skills and international experience add unique value to any team."
+_"Rubens is a versatile developer with a passion for technology, who stands out for both his technical skills and his continuous growth. His adaptability is remarkable – even with a primary focus on backend development, he shows great willingness to work with different technologies such as PHP, Go, Python, and Node.js, always maintaining clean and organized code. His contributions to the open-source community and his commitment to best practices are exemplary. On the soft skills side, he impresses with his excellent communication, active participation in agile ceremonies, and constant openness to feedback. He is a professional who truly embraces every growth opportunity, making a difference in any team he joins through his dedication, collaboration, and continuous pursuit of improvement."_
 
-5. THALLISON RANIERE
-> Full-stack developer with over 5 years of experience in distributed architectures and microservices, specializing in JavaScript/TypeScript, Java, and Python. Strong knowledge in Clean Architecture and agile practices.
+---
+
+### 🥷 THALLISON RANIERE
+
+**Bio**
+_"In construction"_
 
 **Level & Location**
 ![Mid-Level/Senior](https://img.shields.io/badge/-Mid--Level%2FSenior-black?style=flat)
@@ -182,24 +193,34 @@ _"Lucas is an exceptional professional who stands out for both his technical and
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 **Frameworks & Tools**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch)
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FCA121?style=flat&logo=gitlab&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 **DevOps & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FCA121?style=flat&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 **Languages**
 ![Portuguese (Native)](https://img.shields.io/badge/🇧🇷%20Portuguese-Native-green)
 ![English (Intermediate)](https://img.shields.io/badge/🇺🇸%20English-Intermediate-yellow)
 
 **Recommendation**
-> "Thallison is an exceptional developer with deep knowledge in distributed architectures and microservices. His versatility with multiple technologies and ability to solve complex problems make him a highly valuable professional. His expertise in JavaScript/TypeScript and Java, combined with his ability to implement scalable solutions using best practices, sets him apart. His mentoring skills and knowledge sharing significantly contribute to team growth."
+_"Thallison is an exceptional developer who makes a tremendous difference in any team he is part of. With deep technical expertise in Python, he navigates effortlessly through other languages like Go and PHP, always showing willingness to take on new challenges. His experience with distributed architectures and microservices, combined with a strong understanding of business contexts, results in robust and well-structured solutions. He stands out not only for his technical skills but also for his excellent communication and natural ability to share knowledge. In technical discussions and agile rituals, he consistently contributes valuable ideas that truly add value. What makes him even more special is his ability to bring a lighthearted touch to the environment, fostering a collaborative and productive atmosphere. His commitment to deadlines, code quality, and continuous growth, combined with his charismatic personality, makes him a complete and invaluable professional. He is the kind of developer every team wishes to have: competent, helpful, and capable of elevating both the technical and human aspects of the team."_
 
-6. ERICK GLEDSON
-> Senior backend developer specializing in Node.js, with enthusiasm for Flutter and Machine Learning. Focused on creating robust solutions and sharing knowledge.
+---
+
+### 🥷 ERICK GLEDSON
+
+**Bio**
+_"In construction"_
 
 **Level & Location**
 ![Senior](https://img.shields.io/badge/-Senior-black?style=flat)
@@ -211,31 +232,36 @@ _"Lucas is an exceptional professional who stands out for both his technical and
 
 **Main Technologies**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Frameworks & Tools**
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 **DevOps & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 **Languages**
 ![Portuguese (Native)](https://img.shields.io/badge/🇧🇷%20Portuguese-Native-green)
 ![English (Intermediate)](https://img.shields.io/badge/🇺🇸%20English-Intermediate-yellow)
 
-**Recommendation**
-> "Erick is an exceptional developer who combines deep technical expertise with remarkable empathy. His comprehensive understanding of technical and business chains allows him to elucidate any topic with clarity. His discussions are always enriching, bringing insightful points that contribute to team evolution."
+**Recommendation**  
+_"Erick is a senior developer who combines solid technical expertise with significant leadership skills. With prior experience as a Staff Engineer, he demonstrates extensive knowledge of both the technical and business domains, effectively contributing to the team's architectural and technical decisions. His ability to communicate complex concepts clearly and objectively facilitates alignment between different teams. As a technical leader, he has consistently guided other developers and contributed to the team's growth. His experience as a Staff Engineer has highlighted his ability to influence important technical decisions and lead mentoring initiatives. He maintains a steadfast commitment to code quality and best development practices."_
 
-7. IURY DIAS
-> Senior developer with over 6 years of experience in software development, specializing in JavaScript/TypeScript, Go, and distributed architectures. Strong experience in developing RESTful APIs, microservices, and modern web applications, with a passion for clean code and software architecture.
+---
+
+### 🥷 IURY DIAS
+
+**Bio**
+_"In construction"_
 
 **Level & Location**
 ![Senior](https://img.shields.io/badge/-Senior-black?style=flat)
@@ -254,14 +280,17 @@ _"Lucas is an exceptional professional who stands out for both his technical and
 **Frameworks & Tools**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 **DevOps & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
 **Languages**
@@ -269,10 +298,14 @@ _"Lucas is an exceptional professional who stands out for both his technical and
 ![English (Intermediate)](https://img.shields.io/badge/🇺🇸%20English-Intermediate-yellow)
 
 **Recommendation**
-> "Iury is a senior developer who stands out for his technical excellence and architectural vision. With specialization in Go and deep knowledge in distributed architectures, he consistently demonstrates his ability to develop robust and scalable solutions. His differential lies in his ability to deeply understand business flows before proposing technical solutions, resulting in architectures that truly meet product needs. He has a strong commitment to code quality and good development practices, positively influencing the team's technical standards. His solid technical profile, combined with excellent communication and mentoring skills, make him a natural candidate for technical leadership positions. He keeps constantly updated with software development and architecture best practices, actively contributing to the team's technical evolution."
+_"Iury is a senior developer who stands out for his technical excellence and architectural vision. With specialization in Go and deep expertise in distributed architectures, he consistently demonstrates his ability to design robust and scalable solutions. His key strength lies in his ability to thoroughly understand business flows before proposing technical solutions, resulting in architectures that truly meet product needs. He has a strong commitment to code quality and development best practices, positively influencing the team's technical standards. His solid technical profile, combined with excellent communication and mentoring skills, naturally positions him as a candidate for technical leadership roles. He stays constantly updated with best practices in software development and architecture, actively contributing to the technical growth of the team."_
 
-8. LUIS DOURADO
-> Senior Backend Developer with extensive experience in Go, Python, and distributed architectures. Specialist in developing microservices, RESTful APIs, and event-driven systems, with a strong focus on scalability and high availability.
+---
+
+### 🥷 LUIS DOURADO
+
+**Bio**
+_"In construction"_
 
 **Level & Location**
 ![Senior](https://img.shields.io/badge/-Senior-black?style=flat)
@@ -286,40 +319,44 @@ _"Lucas is an exceptional professional who stands out for both his technical and
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Frameworks & Tools**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
 **DevOps & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
 **Languages**
 ![Portuguese (Native)](https://img.shields.io/badge/🇧🇷%20Portuguese-Native-green)
 ![English (Advanced)](https://img.shields.io/badge/🇺🇸%20English-Advanced-blue)
-![Spanish (Intermediate)](https://img.shields.io/badge/🇪🇸%20Spanish-Intermediate-yellow)
+![Italiano (Intermediate)](https://img.shields.io/badge/🇮🇹%20Italiano-Intermediate-008C45?style=flat)
+![Français (Intermediate)](https://img.shields.io/badge/🇫🇷%20Français-Intermediate-002654?style=flat)
 
 **Recommendation**
-> "Luis is an exceptional senior developer who combines deep technical expertise with a strategic understanding of business needs. His extensive experience with distributed architectures, microservices, and event-driven systems makes him a reference in complex technical decisions. His ability to navigate challenging technical scenarios while maintaining code quality and system performance is remarkable. His proactive approach to knowledge sharing and team mentoring creates a positive impact on the technical growth of those around him. His multilingual skills and international experience add unique value to cross-cultural collaborations."
+_"Dourado is an exceptional developer who combines deep technical knowledge with a strategic business vision. His expertise in distributed architectures, microservices, and event-driven systems is remarkable, having led complex projects such as integrations with Apache Kafka and the rewriting of critical libraries. He stands out for his ability to masterfully navigate technical challenges, whether investigating complex problems or making important architectural decisions, always aligned with business objectives. In addition to his impressive technical proficiency in Go, Python, and distributed systems, he possesses excellent communication and mentoring skills, with strong engagement in creating documentation and support materials for the team. His fluency in multiple languages and international experience, combined with his proactivity and dedication to continuous learning, make him a truly distinguished professional. He has the potential to be a technical leader, not only through his high-quality deliverables and solutions, but also by elevating the entire team through his knowledge and collaboration."_
 
-9. ELIS CARVALHO
-> Tech Lead with over 10 years of experience in software development, specializing in distributed architectures, microservices, and high-availability systems. Expert in Go, Python, and backend development, with a strong focus on performance and scalability. Passionate about best practices and team mentorship.
+---
+
+### 🥷 ELIS CARVALHO
+
+**Bio**
+_"Tech Lead with over 10 years of experience in software development and team management. Specialized in distributed architectures, microservices, and high-availability systems. Strong experience in backend development, with a focus on performance and scalability. Regularly conducts 1:1s, technical mentoring, and feedback sessions, fostering the continuous growth of the team. Extensive experience with agile methodologies, working with Scrum and Kanban, facilitating ceremonies and ensuring the continuous delivery of value. Committed to best development practices and building high-performing teams."_
 
 **Level & Location**
 ![Tech Lead](https://img.shields.io/badge/-Tech%20Lead-purple?style=flat)
 ![Remote](https://img.shields.io/badge/-Remote-purple?style=flat)
-![São Paulo](https://img.shields.io/badge/-São%20Paulo-green?style=flat)
 
 **Networks**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/elis-carvalho/)
@@ -328,23 +365,29 @@ _"Lucas is an exceptional professional who stands out for both his technical and
 **Main Technologies**
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 
 **Frameworks & Tools**
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat)
 ![Message Broker](https://img.shields.io/badge/-Message%20Broker-FF6B6B?style=flat)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 **DevOps & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Observability](https://img.shields.io/badge/-Observability-000000?style=flat&logo=observability&logoColor=white)
 
 **Project & People Management**
 ![Scrum Master](https://img.shields.io/badge/-Scrum%20Master-6DB33F?style=flat)
@@ -360,7 +403,13 @@ _"Lucas is an exceptional professional who stands out for both his technical and
 
 **Languages**
 ![Portuguese (Native)](https://img.shields.io/badge/🇧🇷%20Portuguese-Native-green)
-![English (Advanced)](https://img.shields.io/badge/🇺🇸%20English-Advanced-blue)
+![English (Basic)](https://img.shields.io/badge/🇺🇸%20English-Basic-yellow)
 
 **Recommendation**
-> "Elis is an exceptional technical leader who combines an impressive growth trajectory with extraordinary technical and human skills. Her evolution from intern to Tech Lead is marked by a remarkable capacity for quick learning and adaptation to new challenges. Her deep understanding of distributed architectures and ability to lead high-performance teams make her a reference in the field. She excels not only in technical implementation but also in mentoring and developing her team members. Her commitment to quality and best practices has a significant impact on project success and team growth." 
+_"Elis is an exceptional technical leader who combines an impressive growth trajectory with extraordinary technical and interpersonal skills. Her journey from intern to Tech Lead is marked by a remarkable ability to learn quickly and adapt to new challenges. Her technical expertise, paired with a unique talent for identifying and solving complex problems, has been critical to the success of several key projects. What truly sets her apart is her ability to foster a healthy and productive work environment, always balancing the quality of deliverables with the professional development of the team. Her leadership by competence is evident in her genuine concern for the well-being of each team member, promoting a collaborative atmosphere where everyone feels valued. Even under pressure in challenging scenarios, she maintains composure and focus on objectives. Her humility and willingness to keep learning, combined with her proactivity and resilience, make her an inspiring leader. She is a well-rounded professional who combines technical excellence, empathetic leadership, and a commitment to results, making her an indispensable asset to any team fortunate enough to have her as a leader."_
+
+## How to Get in Touch  
+If you are looking for talented ninjas for your team, feel free to reach out to us through the professional networks listed in each profile.
+
+## About the Project  
+This repository was inspired by the project [ninjas-open-to-work](https://github.com/ninjas-open-to-work/ninjas-open-to-work), adapted for our specific group of professionals.
