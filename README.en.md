@@ -408,8 +408,11 @@ _"Tech Lead with over 10 years of experience in software development and team ma
 **Recommendation**
 _"Elis is an exceptional technical leader who combines an impressive growth trajectory with extraordinary technical and interpersonal skills. Her journey from intern to Tech Lead is marked by a remarkable ability to learn quickly and adapt to new challenges. Her technical expertise, paired with a unique talent for identifying and solving complex problems, has been critical to the success of several key projects. What truly sets her apart is her ability to foster a healthy and productive work environment, always balancing the quality of deliverables with the professional development of the team. Her leadership by competence is evident in her genuine concern for the well-being of each team member, promoting a collaborative atmosphere where everyone feels valued. Even under pressure in challenging scenarios, she maintains composure and focus on objectives. Her humility and willingness to keep learning, combined with her proactivity and resilience, make her an inspiring leader. She is a well-rounded professional who combines technical excellence, empathetic leadership, and a commitment to results, making her an indispensable asset to any team fortunate enough to have her as a leader."_
 
-## How to Get in Touch  
+## How to Get in Touch
+
 If you are looking for talented ninjas for your team, feel free to reach out to us through the professional networks listed in each profile.
 
 ## About the Project  
+
 This repository was inspired by the project [ninjas-open-to-work](https://github.com/ninjas-open-to-work/ninjas-open-to-work), adapted for our specific group of professionals.
+

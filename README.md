@@ -63,6 +63,7 @@ _"Em construção"_
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Frameworks & Ferramentas**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -106,6 +107,7 @@ _"Em construção"_
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Frameworks & Ferramentas**
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -397,6 +399,18 @@ _"Tech Lead com mais de 10 anos de experiência em desenvolvimento de software e
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Observability](https://img.shields.io/badge/-Observability-000000?style=flat&logo=observability&logoColor=white)
 
+**Gestão de Projetos & Pessoas**
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat)
+![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat)
+![1:1 Meetings](https://img.shields.io/badge/-1:1%20Meetings-FF6B6B?style=flat)
+![Performance Reviews](https://img.shields.io/badge/-Performance%20Reviews-7B68EE?style=flat)
+![Technical Mentoring](https://img.shields.io/badge/-Technical%20Mentoring-9370DB?style=flat)
+![Team Building](https://img.shields.io/badge/-Team%20Building-FF69B4?style=flat)
+![Agile Ceremonies](https://img.shields.io/badge/-Agile%20Ceremonies-87CEEB?style=flat)
+![OKRs](https://img.shields.io/badge/-OKRs-4682B4?style=flat)
+![Career Development](https://img.shields.io/badge/-Career%20Development-DDA0DD?style=flat)
+![Conflict Resolution](https://img.shields.io/badge/-Conflict%20Resolution-DB7093?style=flat)
+
 **Idiomas**
 🇧🇷 ![Português](https://img.shields.io/badge/-Português%20(Nativo)-009739?style=flat)
 🇺🇸 ![English](https://img.shields.io/badge/-English%20(Básico)-1B4B94?style=flat)
@@ -410,4 +424,4 @@ Se você está procurando por ninjas talentosos para sua equipe, entre em contat
 
 ## Sobre o projeto
 
-Este repositório foi inspirado no projeto [ninjas-open-to-work](https://github.com/ninjas-open-to-work/ninjas-open-to-work), adaptado para nosso grupo específico de profissionais. 
+Este repositório foi inspirado no projeto [ninjas-open-to-work](https://github.com/ninjas-open-to-work/ninjas-open-to-work), adaptado para nosso grupo específico de profissionais.
