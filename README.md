@@ -391,7 +391,11 @@ _"Tech Lead com mais de 10 anos de experiência em desenvolvimento de software e
 ![REST](https://img.shields.io/badge/-REST-000000?style=flat&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat)
-![Message Broker](https://img.shields.io/badge/-Message%20Broker-FF6B6B?style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![CursorAI](https://img.shields.io/badge/-CursorAI-000000?style=flat&logo=cursor&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
 
 **DevOps & Infraestrutura**
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
