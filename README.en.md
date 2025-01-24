@@ -1,13 +1,13 @@
-![Service Ninjas](https://img.shields.io/badge/Service%20Ninjas-2024-blue)
-
 # Service Ninjas
 
 Welcome to the Service Ninjas team! We are a group of technology professionals passionate about creating innovative solutions and delivering high-quality software.
 
 ## Our Team
 
-1. GABRIEL MAGNAGO
-> Enthusiastic full-stack developer in training, focused on JavaScript and Python. Currently exploring security practices and modern development tools.
+### 🥷 GABRIEL MAGNAGO
+
+**Bio**
+_"In construction"_
 
 **Level & Location**
 ![Intern](https://img.shields.io/badge/-Intern-lightgray?style=flat)
@@ -20,17 +20,32 @@ Welcome to the Service Ninjas team! We are a group of technology professionals p
 **Main Technologies**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frameworks & Tools**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**DevOps & Infrastructure**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Languages**
 ![Portuguese (Native)](https://img.shields.io/badge/🇧🇷%20Portuguese-Native-green)
 ![English (Basic)](https://img.shields.io/badge/🇺🇸%20English-Basic-lightgray)
 
 **Recommendation**
-> "Gabriel demonstrates great potential and enthusiasm for learning. His dedication to understanding security practices and ability to quickly grasp new concepts make him a promising developer."
+_"Gabriel is a dedicated professional who consistently demonstrates a strong interest in learning and developing his skills. His willingness to acquire new technical knowledge and skills is commendable. Even though he is at the beginning of his career, he already shows a good understanding of development practices and a commitment to code quality. His ability to absorb new concepts and his receptiveness to feedback are traits that contribute positively to his professional development."_
 
-2. MARCO AMES
-> Full-stack developer with experience in JavaScript and Java, focused on creating efficient and scalable solutions.
+---
+
+### 🥷 MARCO AMES
+
+**Bio**
+_"In construction"_
 
 **Level & Location**
 ![Assistant](https://img.shields.io/badge/-Assistant-lightgray?style=flat)
@@ -42,46 +57,77 @@ Welcome to the Service Ninjas team! We are a group of technology professionals p
 
 **Main Technologies**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**Frameworks & Tools**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+**DevOps & Infrastructure**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Languages**
 ![Portuguese (Native)](https://img.shields.io/badge/🇧🇷%20Portuguese-Native-green)
 ![English (Basic)](https://img.shields.io/badge/🇺🇸%20English-Basic-lightgray)
 
 **Recommendation**
-> "Marco shows great dedication to learning and improving his skills. His ability to work with both JavaScript and Java demonstrates his versatility as a developer."
+_"Marco is a dedicated and proactive developer who stands out for his ability to solve problems efficiently. Always motivated and open to new challenges, he has demonstrated excellent adaptability and a quick grasp of new knowledge. His proactive attitude and willingness to contribute in different contexts make him a valuable asset to the team. What stands out the most is his determination to seek solutions and his constant openness to new experiences and learning."_
 
-3. LUCAS GOMES
-> Full-stack developer with experience in modern web development, focused on creating scalable and high-quality solutions.
+---
+
+### 🥷 LUCAS GOMES
+
+**Bio**
+_"In construction"_
 
 **Level & Location**
 ![Junior/Mid-Level](https://img.shields.io/badge/-Junior%2FMid--Level-gray?style=flat)
 ![Remote](https://img.shields.io/badge/-Remote-purple?style=flat)
 
 **Networks**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucasgomesoficial/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ngomes/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lucasnunesg)
 
 **Main Technologies**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 **Frameworks & Tools**
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 **DevOps & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 **Languages**
 ![Portuguese (Native)](https://img.shields.io/badge/🇧🇷%20Portuguese-Native-green)
-![English (Basic)](https://img.shields.io/badge/🇺🇸%20English-Basic-lightgray)
+![English (Intermediate)](https://img.shields.io/badge/🇺🇸%20English-Intermediate-yellow)
 
 **Recommendation**
-> "Lucas is a dedicated developer who consistently delivers high-quality solutions. His expertise in modern web technologies and commitment to best practices make him a valuable team member."
+_"Lucas is an exceptional professional who stands out for both his technical and interpersonal skills. A dedicated and proactive developer with excellent learning ability and teamwork. His exemplary organization and knowledge management are remarkable, always optimizing processes and working smartly. In technical discussions, he consistently provides valuable insights and achieves impressive results through his effort and discipline. In addition to his technical expertise with multiple technologies and frameworks, he is distinguished by his humility, easygoing nature, and ability to maintain a positive environment without losing focus."_
+
+---
 
 4. RUBENS DOS SANTOS
 > Full-stack developer with experience in Python/Django and JavaScript/Node.js, passionate about creating efficient and scalable solutions.
