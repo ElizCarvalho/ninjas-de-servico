@@ -20,7 +20,7 @@ _"In construction"_
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/gabrielmagnago)
 
 **Main Technologies**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -58,7 +58,7 @@ _"In construction"_
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/marcoames)
 
 **Main Technologies**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -102,7 +102,7 @@ _"In construction"_
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/lucasnunesg)
 
 **Main Technologies**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -147,7 +147,7 @@ _"In construction"_
 **Main Technologies**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
@@ -180,7 +180,7 @@ _"Rubens is a versatile developer with a passion for technology, who stands out 
 _"In construction"_
 
 **Level & Location**
-![Mid-Level/Senior](https://img.shields.io/badge/-Mid--Level%2FSenior-black?style=flat)
+![Mid-Level/Senior](https://img.shields.io/badge/-Mid--Level%2FSenior-004225?style=flat)
 ![Remote](https://img.shields.io/badge/-Remote-purple?style=flat)
 
 **Networks**
@@ -188,7 +188,7 @@ _"In construction"_
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/thallisonraniere)
 
 **Main Technologies**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -225,15 +225,15 @@ _"Thallison is an exceptional developer who makes a tremendous difference in any
 _"In construction"_
 
 **Level & Location**
-![Senior](https://img.shields.io/badge/-Senior-black?style=flat)
-![Remote](https://img.shields.io/badge/-Remote-purple?style=flat)
+![Senior](https://img.shields.io/badge/-Senior-004225?style=flat)
+![Remote](https://img.shields.io/badge/-Remote-8A2BE2?style=flat)
 
 **Networks**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/erickgledson/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/erickglds)
 
 **Main Technologies**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -266,15 +266,15 @@ _"Erick is a senior developer who combines solid technical expertise with signif
 _"In construction"_
 
 **Level & Location**
-![Senior](https://img.shields.io/badge/-Senior-black?style=flat)
-![Remote](https://img.shields.io/badge/-Remote-purple?style=flat)
+![Senior](https://img.shields.io/badge/-Senior-004225?style=flat)
+![Remote](https://img.shields.io/badge/-Remote-8A2BE2?style=flat)
 
 **Networks**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/iurydias/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/iurydias)
 
 **Main Technologies**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -310,8 +310,8 @@ _"Iury is a senior developer who stands out for his technical excellence and arc
 _"In construction"_
 
 **Level & Location**
-![Senior](https://img.shields.io/badge/-Senior-black?style=flat)
-![Remote](https://img.shields.io/badge/-Remote-purple?style=flat)
+![Senior](https://img.shields.io/badge/-Senior-004225?style=flat)
+![Remote](https://img.shields.io/badge/-Remote-8A2BE2?style=flat)
 
 **Networks**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dourado-luis/)
@@ -320,7 +320,7 @@ _"In construction"_
 **Main Technologies**
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Frameworks & Tools**
@@ -357,7 +357,7 @@ _"Dourado is an exceptional developer who combines deep technical knowledge with
 _"Tech Lead with over 10 years of experience in software development and team management. Specialized in distributed architectures, microservices, and high-availability systems. Strong experience in backend development, with a focus on performance and scalability. Regularly conducts 1:1s, technical mentoring, and feedback sessions, fostering the continuous growth of the team. Extensive experience with agile methodologies, working with Scrum and Kanban, facilitating ceremonies and ensuring the continuous delivery of value. Committed to best development practices and building high-performing teams."_
 
 **Level & Location**
-![Tech Lead](https://img.shields.io/badge/-Tech%20Lead-purple?style=flat)
+![Tech Lead](https://img.shields.io/badge/-Tech%20Lead-8A2BE2?style=flat)
 ![Remote](https://img.shields.io/badge/-Remote-purple?style=flat)
 
 **Networks**
@@ -368,7 +368,7 @@ _"Tech Lead with over 10 years of experience in software development and team ma
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 
