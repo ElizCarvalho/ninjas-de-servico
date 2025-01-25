@@ -369,30 +369,43 @@ _"Em construção"_
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/iurydias)
 
 **Principais Tecnologias**
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Frameworks & Ferramentas**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![CursorAI](https://img.shields.io/badge/-CursorAI-4B32C3?style=flat&logo=cursor&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-00ADD8?style=flat&logo=grpc&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-2496ED?style=flat)
+![NativeScript](https://img.shields.io/badge/-NativeScript-65ADF1?style=flat&logo=nativescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NSQ](https://img.shields.io/badge/-NSQ-00ADD8?style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![RunDeck](https://img.shields.io/badge/-RunDeck-F7B500?style=flat&logo=rundeck&logoColor=black)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 **DevOps & Infraestrutura**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![ArangoDB](https://img.shields.io/badge/-ArangoDB-DDE072?style=flat&logo=arangodb&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
 **Idiomas**
 🇧🇷 ![Português](https://img.shields.io/badge/-Português%20(Nativo)-009739?style=flat)
-🇺🇸 ![Inglês](https://img.shields.io/badge/-Inglês%20(Intermediário)-1B4B94?style=flat)
+🇺🇸 ![Inglês](https://img.shields.io/badge/-Inglês%20(Avançado)-1B4B94?style=flat)
+🇪🇸 ![Espanhol](https://img.shields.io/badge/-Espanhol%20(Básico)-008C45?style=flat)
+🇫🇷 ![Francês](https://img.shields.io/badge/-Francês%20(Básico)-002654?style=flat)
 
 **Recomendação**
 _"Iury é um desenvolvedor sênior que se destaca por sua excelência técnica e visão arquitetural. Com especialização em Go e profundo conhecimento em arquiteturas distribuídas, demonstra consistentemente sua capacidade de desenvolver soluções robustas e escaláveis. Seu diferencial está na habilidade de compreender profundamente os fluxos de negócio antes de propor soluções técnicas, resultando em arquiteturas que realmente atendem às necessidades do produto. Tem forte compromisso com a qualidade do código e boas práticas de desenvolvimento, influenciando positivamente os padrões técnicos da equipe. Seu perfil técnico sólido, combinado com excelentes habilidades de comunicação e mentoria, o tornam um candidato natural para posições de liderança técnica. Mantém-se constantemente atualizado com as melhores práticas de desenvolvimento e arquitetura de software, contribuindo ativamente para a evolução técnica do time."_
