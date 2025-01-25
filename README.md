@@ -221,7 +221,7 @@ _"Rubens é um desenvolvedor versátil e apaixonado por tecnologia, que se desta
 _"Em construção"_
 
 **Nível & Localização**
-![Senior](https://img.shields.io/badge/-Senior-004225?style=flat)
+![Pleno/Senior](https://img.shields.io/badge/-Pleno%2FSenior-004225?style=flat)
 ![Remoto](https://img.shields.io/badge/-Remoto-8A2BE2?style=flat)
 ![Minas Gerais](https://img.shields.io/badge/-Minas%20Gerais-gray?style=flat)
 
@@ -230,32 +230,59 @@ _"Em construção"_
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ThallisonRaniere)
 
 **Principais Tecnologias**
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
 **Frameworks & Ferramentas**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Cloud Functions](https://img.shields.io/badge/-Cloud%20Functions-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Cloud Storage](https://img.shields.io/badge/-Cloud%20Storage-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![CursorAI](https://img.shields.io/badge/-CursorAI-4B32C3?style=flat&logo=cursor&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-00ADD8?style=flat&logo=grpc&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=ios&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat)
+![Message Broker](https://img.shields.io/badge/-Message%20Broker-FF6B6B?style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-2496ED?style=flat)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![NSQ](https://img.shields.io/badge/-NSQ-00ADD8?style=flat)
+![Office](https://img.shields.io/badge/-Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+![ORM](https://img.shields.io/badge/-ORM-FF6B6B?style=flat)
+![PaaS](https://img.shields.io/badge/-PaaS-FF6B6B?style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![REST](https://img.shields.io/badge/-REST-000000?style=flat)
+![SaaS](https://img.shields.io/badge/-SaaS-FF6B6B?style=flat)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![UnitTest](https://img.shields.io/badge/-UnitTest-25A162?style=flat)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 **DevOps & Infraestrutura**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FCA121?style=flat&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![SQLServer](https://img.shields.io/badge/-SQLServer-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 **Idiomas**
 🇧🇷 ![Português](https://img.shields.io/badge/-Português%20(Nativo)-009739?style=flat)
-🇺🇸 ![Inglês](https://img.shields.io/badge/-Inglês%20(Intermediário)-1B4B94?style=flat)
+🇺🇸 ![Inglês](https://img.shields.io/badge/-Inglês%20(Básico)-1B4B94?style=flat)
 
 **Recomendação**
 _"Thallison é um desenvolvedor excepcional que faz uma diferença enorme em qualquer equipe que participa. Com profundo conhecimento técnico em Python, navega com facilidade em outras linguagens como Go e PHP, sempre demonstrando disposição para encarar novos desafios. Sua experiência com arquiteturas distribuídas e microsserviços, combinada com um forte domínio do contexto de negócio, resulta em soluções robustas e bem estruturadas. Destaca-se não apenas por suas habilidades técnicas, mas também por sua excelente comunicação e capacidade de compartilhar conhecimento de forma natural. Nas discussões técnicas e ritos ágeis, sempre contribui com ideias valiosas que realmente agregam. O que o torna ainda mais especial é sua habilidade de adicionar um toque de leveza ao ambiente, promovendo uma atmosfera colaborativa e produtiva. Seu comprometimento com prazos, qualidade de código e crescimento contínuo, combinado com sua personalidade carismática, o torna um profissional completo e valioso. É aquele tipo de desenvolvedor que toda equipe deseja ter: competente, prestativo e capaz de elevar o nível técnico e humano do time."_
