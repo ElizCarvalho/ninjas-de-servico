@@ -133,10 +133,10 @@ _"Lucas is an exceptional professional who stands out for both his technical and
 
 ### 🥷 RUBENS DOS SANTOS
 
-**Bio**
+**Bio** _"
 Rubens is a technology professional with experience in web development, and his career in programming began as a hobby aimed at automating repetitive processes. Over time, this passion evolved, and today he specializes in creating digital solutions that optimize workflow and improve efficiency.
 He currently lives in Simões Filho, in the metropolitan region of Salvador (BA), is married and in his spare time dedicates himself to hobbies such as music and literature, with the guitar being one of his main forms of expression.
-His professional approach is based on a constant search for innovation and continuous improvement. He has a strong commitment to the quality and positive impact of the projects he develops, always focused on delivering results that meet the needs of users and companies.
+His professional approach is based on a constant search for innovation and continuous improvement. He has a strong commitment to the quality and positive impact of the projects he develops, always focused on delivering results that meet the needs of users and companies."_
 
 **Level & Location**
 ![Junior/Mid-Level](https://img.shields.io/badge/-Junior%2FMid--Level-gray?style=flat)
