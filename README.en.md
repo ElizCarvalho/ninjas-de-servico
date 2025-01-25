@@ -220,7 +220,7 @@ _"Rubens is a versatile developer with a passion for technology, who stands out 
 _"In construction"_
 
 **Level & Location**
-![Mid-Level/Senior](https://img.shields.io/badge/-Mid--Level%2FSenior-004225?style=flat)
+![Mid-Level/Senior](https://img.shields.io/badge/-Mid--Level%2FSenior-2F4F4F?style=flat)
 ![Remote](https://img.shields.io/badge/-Remote-purple?style=flat)
 ![Minas Gerais](https://img.shields.io/badge/-Minas%20Gerais-gray?style=flat)
 

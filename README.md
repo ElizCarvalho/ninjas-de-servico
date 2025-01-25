@@ -221,7 +221,7 @@ _"Rubens é um desenvolvedor versátil e apaixonado por tecnologia, que se desta
 _"Em construção"_
 
 **Nível & Localização**
-![Pleno/Senior](https://img.shields.io/badge/-Pleno%2FSenior-004225?style=flat)
+![Pleno/Senior](https://img.shields.io/badge/-Pleno%2FSenior-2F4F4F?style=flat)
 ![Remoto](https://img.shields.io/badge/-Remoto-8A2BE2?style=flat)
 ![Minas Gerais](https://img.shields.io/badge/-Minas%20Gerais-gray?style=flat)
 
