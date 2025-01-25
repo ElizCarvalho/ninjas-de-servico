@@ -57,7 +57,7 @@ _"Gabriel é um profissional dedicado que demonstra consistente interesse em apr
 _"Em construção"_
 
 **Nível & Localização**
-![Assistente](https://img.shields.io/badge/-Assistente-lightgray?style=flat)
+![Assistente](https://img.shields.io/badge/-Assistente-004225?style=flat)
 ![Remoto](https://img.shields.io/badge/-Remoto-purple?style=flat)
 ![Rio Grande do Sul](https://img.shields.io/badge/-Rio%20Grande%20do%20Sul-gray?style=flat)
 

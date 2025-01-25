@@ -58,7 +58,7 @@ _"Gabriel is a dedicated professional who consistently shows interest in learnin
 _"In construction"_
 
 **Level & Location**
-![Assistant](https://img.shields.io/badge/-Assistant-lightgray?style=flat)
+![Assistant](https://img.shields.io/badge/-Assistant-004225?style=flat)
 ![Remote](https://img.shields.io/badge/-Remote-purple?style=flat)
 ![Rio Grande do Sul](https://img.shields.io/badge/-Rio%20Grande%20do%20Sul-gray?style=flat)
 
