@@ -136,13 +136,9 @@ _"Lucas é um profissional excepcional que se destaca tanto por suas habilidades
 
 ### 🥷 RUBENS DOS SANTOS
 
-**Bio**
-
-Rubens é um profissional de tecnologia com experiência em desenvolvimento web, e sua trajetória na programação começou como um hobby voltado para a automação de processos repetitivos. Com o tempo, essa paixão evoluiu, e hoje ele é especializado na criação de soluções digitais que otimizam o fluxo de trabalho e melhoram a eficiência.
-
+**Bio** _"Rubens é um profissional de tecnologia com experiência em desenvolvimento web, e sua trajetória na programação começou como um hobby voltado para a automação de processos repetitivos. Com o tempo, essa paixão evoluiu, e hoje ele é especializado na criação de soluções digitais que otimizam o fluxo de trabalho e melhoram a eficiência.
 Atualmente, ele reside em Simões Filho, Região Metropolitana de Salvador (BA), é casado e no seu tempo livre se dedica a hobbies como música e literatura, sendo o violão uma das suas principais formas de expressão.
-
-Sua abordagem profissional é pautada na busca constante por inovação e no aprimoramento contínuo. Ele tem um forte compromisso com a qualidade e o impacto positivo dos projetos que desenvolve, sempre focado em entregar resultados que atendam às necessidades dos usuários e das empresas.
+Sua abordagem profissional é pautada na busca constante por inovação e no aprimoramento contínuo. Ele tem um forte compromisso com a qualidade e o impacto positivo dos projetos que desenvolve, sempre focado em entregar resultados que atendam às necessidades dos usuários e das empresas."_
 
 **Nível & Localização**
 ![Pleno](https://img.shields.io/badge/-Júnior%2FPleno-gray?style=flat)
