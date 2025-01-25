@@ -60,9 +60,10 @@ _"In construction"_
 **Level & Location**
 ![Assistant](https://img.shields.io/badge/-Assistant-lightgray?style=flat)
 ![Remote](https://img.shields.io/badge/-Remote-purple?style=flat)
+![Rio Grande do Sul](https://img.shields.io/badge/-Rio%20Grande%20do%20Sul-gray?style=flat)
 
 **Networks**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/marco-ames-silva/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/marco-ames/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/marcoames)
 
 **Main Technologies**
@@ -87,7 +88,8 @@ _"In construction"_
 
 **Languages**
 ![Portuguese (Native)](https://img.shields.io/badge/🇧🇷%20Portuguese-Native-green)
-![English (Basic)](https://img.shields.io/badge/🇺🇸%20English-Basic-lightgray)
+![English (Fluent)](https://img.shields.io/badge/🇺🇸%20English-Fluent-lightgray)
+🇪🇸 ![Spanish (Intermediate)](https://img.shields.io/badge/🇪🇸%20Spanish-Intermediate-lightgray)
 
 **Recommendation**
 _"Marco is a dedicated and proactive developer who stands out for his ability to solve problems efficiently. Always motivated and open to new challenges, he has demonstrated excellent adaptability and a quick grasp of new knowledge. His proactive attitude and willingness to contribute in different contexts make him a valuable asset to the team. What stands out the most is his determination to seek solutions and his constant openness to new experiences and learning."_
