@@ -32,10 +32,10 @@ _"Graduando em Ciência da Computação pela Faculdade Estácio, com previsão d
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![MJML](https://img.shields.io/badge/-MJML-EB5A5A?style=flat)
-![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-2496ED?style=flat)
 ![Message Broker](https://img.shields.io/badge/-Message%20Broker-FF6B6B?style=flat)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![CursorAI](https://img.shields.io/badge/-CursorAI-000000?style=flat&logo=cursor&logoColor=white)
+![CursorAI](https://img.shields.io/badge/-CursorAI-4B32C3?style=flat&logo=cursor&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 **DevOps & Infraestrutura**
@@ -396,10 +396,10 @@ _"Tech Lead com mais de 10 anos de experiência em desenvolvimento de software e
 ![ExpressJS](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![REST](https://img.shields.io/badge/-REST-000000?style=flat&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-2496ED?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![CursorAI](https://img.shields.io/badge/-CursorAI-000000?style=flat&logo=cursor&logoColor=white)
+![CursorAI](https://img.shields.io/badge/-CursorAI-4B32C3?style=flat&logo=cursor&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
 

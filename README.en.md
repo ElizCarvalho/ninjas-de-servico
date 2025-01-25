@@ -32,10 +32,10 @@ _"Computer Science student at Estácio University, expected to graduate in 2026.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![MJML](https://img.shields.io/badge/-MJML-EB5A5A?style=flat)
-![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-2496ED?style=flat)
 ![Message Broker](https://img.shields.io/badge/-Message%20Broker-FF6B6B?style=flat)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![CursorAI](https://img.shields.io/badge/-CursorAI-000000?style=flat&logo=cursor&logoColor=white)
+![CursorAI](https://img.shields.io/badge/-CursorAI-4B32C3?style=flat&logo=cursor&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 **DevOps & Infrastructure**
@@ -384,7 +384,7 @@ _"Tech Lead with over 10 years of experience in software development and team ma
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-2496ED?style=flat)
 ![Message Broker](https://img.shields.io/badge/-Message%20Broker-FF6B6B?style=flat)
 
 **DevOps & Infrastructure**
