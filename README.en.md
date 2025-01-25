@@ -9,38 +9,42 @@ Welcome to Service Ninjas - a group of technology professionals ready for new ch
 ### 🥷 GABRIEL MAGNAGO
 
 **Bio**
-_"In construction"_
+_"Computer Science student at Estácio University, expected to graduate in 2026. Constantly developing and learning, seeking to enhance his software development knowledge."_
 
 **Level & Location**
 ![Intern](https://img.shields.io/badge/-Intern-87CEEB?style=flat)
 ![Remote](https://img.shields.io/badge/-Remote-8A2BE2?style=flat)
+![Rio de Janeiro](https://img.shields.io/badge/-Rio%20de%20Janeiro-gray?style=flat)
 
 **Networks**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-magnago-78a1ab1b7/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/gabrielmagnago)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-magnagoab/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/GabrielMagnago3007)
 
 **Main Technologies**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Frameworks & Tools**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+**Frameworks & Tools**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![MJML](https://img.shields.io/badge/-MJML-EB5A5A?style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat)
+![Message Broker](https://img.shields.io/badge/-Message%20Broker-FF6B6B?style=flat)
+
 **DevOps & Infrastructure**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Languages**
-![Portuguese (Native)](https://img.shields.io/badge/🇧🇷%20Portuguese-Native-green)
-![English (Basic)](https://img.shields.io/badge/🇺🇸%20English-Basic-lightgray)
+🇧🇷 ![Portuguese](https://img.shields.io/badge/-Portuguese%20(Native)-009739?style=flat)
+🇺🇸 ![English](https://img.shields.io/badge/-English%20(Basic)-1B4B94?style=flat)
+🇪🇸 ![Spanish](https://img.shields.io/badge/-Spanish%20(Intermediate)-FFD700?style=flat)
 
 **Recommendation**
-_"Gabriel is a dedicated professional who consistently demonstrates a strong interest in learning and developing his skills. His willingness to acquire new technical knowledge and skills is commendable. Even though he is at the beginning of his career, he already shows a good understanding of development practices and a commitment to code quality. His ability to absorb new concepts and his receptiveness to feedback are traits that contribute positively to his professional development."_
+_"Gabriel is a dedicated professional who consistently shows interest in learning and developing. His willingness to acquire new knowledge and technical skills is remarkable. Even being at the beginning of his career, he already demonstrates good understanding of development practices and commitment to code quality. His ability to absorb new concepts and receptivity to feedback are characteristics that positively contribute to his professional development."_
 
 ---
 
