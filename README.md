@@ -32,7 +32,7 @@ _"Graduando em Ciência da Computação pela Faculdade Estácio, com previsão d
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![MJML](https://img.shields.io/badge/-MJML-EB5A5A?style=flat)
-![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-2496ED?style=flat)
 ![Message Broker](https://img.shields.io/badge/-Message%20Broker-FF6B6B?style=flat)
 
 **DevOps & Infraestrutura**
