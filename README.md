@@ -137,6 +137,7 @@ _"Lucas é um profissional excepcional que se destaca tanto por suas habilidades
 ### 🥷 RUBENS DOS SANTOS
 
 **Bio**
+
 Rubens é um profissional de tecnologia com experiência em desenvolvimento web, e sua trajetória na programação começou como um hobby voltado para a automação de processos repetitivos. Com o tempo, essa paixão evoluiu, e hoje ele é especializado na criação de soluções digitais que otimizam o fluxo de trabalho e melhoram a eficiência.
 
 Atualmente, ele reside em Simões Filho, Região Metropolitana de Salvador (BA), é casado e no seu tempo livre se dedica a hobbies como música e literatura, sendo o violão uma das suas principais formas de expressão.
