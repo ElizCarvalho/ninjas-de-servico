@@ -137,7 +137,11 @@ _"Lucas é um profissional excepcional que se destaca tanto por suas habilidades
 ### 🥷 RUBENS DOS SANTOS
 
 **Bio**
-_"Em construção"_
+Rubens é um profissional de tecnologia com experiência em desenvolvimento web, e sua trajetória na programação começou como um hobby voltado para a automação de processos repetitivos. Com o tempo, essa paixão evoluiu, e hoje ele é especializado na criação de soluções digitais que otimizam o fluxo de trabalho e melhoram a eficiência.
+
+Atualmente, ele reside em Simões Filho, Região Metropolitana de Salvador (BA), é casado e no seu tempo livre se dedica a hobbies como música e literatura, sendo o violão uma das suas principais formas de expressão.
+
+Sua abordagem profissional é pautada na busca constante por inovação e no aprimoramento contínuo. Ele tem um forte compromisso com a qualidade e o impacto positivo dos projetos que desenvolve, sempre focado em entregar resultados que atendam às necessidades dos usuários e das empresas.
 
 **Nível & Localização**
 ![Pleno](https://img.shields.io/badge/-Júnior%2FPleno-gray?style=flat)
@@ -146,18 +150,22 @@ _"Em construção"_
 
 **Redes**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaetaen/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kaetaen)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kaetaen/)
+
+**Blog**
+[![Static Badge](https://img.shields.io/badge/dev.to-community?style=flat&logo=dev.to&logoColor=white&color=black)](https://dev.to/kaetaen)
 
 **Principais Tecnologias**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/-Shell%20Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 **Frameworks & Ferramentas**
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-framework?style=flat&logo=Flask&color=black)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Fast API](https://img.shields.io/badge/Fast%20API-framework?style=flat&logo=FastAPI&color=rgba(108%2C%200%2C%2045%2C%200.1))
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -168,6 +176,7 @@ _"Em construção"_
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-database?style=flat&logo=MySQL&color=white)
 
 **Idiomas**
 🇧🇷 ![Português](https://img.shields.io/badge/-Português%20(Nativo)-009739?style=flat)
