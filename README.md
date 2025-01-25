@@ -306,25 +306,48 @@ _"Em construção"_
 **Principais Tecnologias**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 
 **Frameworks & Ferramentas**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=angularjs&logoColor=white)
+![BigData](https://img.shields.io/badge/-BigData-FF6B6B?style=flat)
+![ChatBot](https://img.shields.io/badge/-ChatBot-0066FF?style=flat)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Cordova](https://img.shields.io/badge/-Cordova-E8E8E8?style=flat&logo=apache-cordova&logoColor=black)
+![ExtJS](https://img.shields.io/badge/-ExtJS-86BC40?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/-IBM%20Watson-BE95FF?style=flat&logo=ibm&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Message Broker](https://img.shields.io/badge/-Message%20Broker-FF6B6B?style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-2496ED?style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat)
+![SVN](https://img.shields.io/badge/-SVN-809CC9?style=flat&logo=subversion&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![TOTVS](https://img.shields.io/badge/-TOTVS-00A1E0?style=flat)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 **DevOps & Infraestrutura**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![OracleDB](https://img.shields.io/badge/-OracleDB-F80000?style=flat&logo=oracle&logoColor=white)
+![SQLServer](https://img.shields.io/badge/-SQLServer-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 **Idiomas**
 🇧🇷 ![Português](https://img.shields.io/badge/-Português%20(Nativo)-009739?style=flat)
-🇺🇸 ![Inglês](https://img.shields.io/badge/-Inglês%20(Intermediário)-1B4B94?style=flat)
+🇺🇸 ![Inglês](https://img.shields.io/badge/-Inglês%20(Básico)-1B4B94?style=flat)
 
 **Recomendação**
 _"Erick é um desenvolvedor sênior que combina sólida expertise técnica com significativa capacidade de liderança. Com experiência prévia como Staff Engineer, demonstra amplo domínio da cadeia técnica e de negócios, contribuindo efetivamente nas decisões arquiteturais e técnicas do time. Sua habilidade em comunicar conceitos complexos de forma clara e objetiva facilita o alinhamento entre diferentes equipes. Como líder técnico, tem demonstrado consistência em orientar outros desenvolvedores e contribuir para o crescimento do time. Sua experiência como Staff evidenciou sua capacidade de influenciar decisões técnicas importantes e conduzir iniciativas de mentoria. Mantém um compromisso constante com a qualidade do código e as melhores práticas de desenvolvimento."_
@@ -482,8 +505,6 @@ _"Tech Lead com mais de 10 anos de experiência em desenvolvimento de software e
 ![ElasticApm](https://img.shields.io/badge/-Elastic%20Apm-005571?style=flat&logo=elastic-apm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 **Gestão de Projetos & Pessoas**
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat)
