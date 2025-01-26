@@ -218,7 +218,7 @@ _"Rubens é um desenvolvedor versátil e apaixonado por tecnologia, que se desta
 ### 🥷 THALLISON RANIERE ![Experience](https://img.shields.io/badge/Experience-7%2B%20Years-brightgreen)
 
 **Bio**
-_"Em construção"_
+_"Desenvolvedor Sênior com mais de 7 anos de experiência em desenvolvimento de software, graduado em Sistemas de Informação e certificado Google Associate Cloud Engineer. Atua no desenvolvimento e manutenção de sistema crítico de reservas hoteleiras que processa milhares de transações diárias, garantindo alta disponibilidade e performance. Especialista em Python e arquiteturas distribuídas, com sólida experiência em Cloud Computing e sistemas escaláveis. Combina profundo conhecimento técnico com visão estratégica de negócios, contribuindo efetivamente para a evolução e otimização de sistemas complexos."_
 
 **Nível & Localização**
 ![Pleno/Senior](https://img.shields.io/badge/-Pleno%2FSenior-2F4F4F?style=flat)
@@ -405,7 +405,7 @@ _"Em construção"_
 🇧🇷 ![Português](https://img.shields.io/badge/-Português%20(Nativo)-009739?style=flat)
 🇺🇸 ![Inglês](https://img.shields.io/badge/-Inglês%20(Avançado)-1B4B94?style=flat)
 🇪🇸 ![Espanhol](https://img.shields.io/badge/-Espanhol%20(Básico)-008C45?style=flat)
-🇫🇷 ![Francês](https://img.shields.io/badge/-Francês%20(Básico)-002654?style=flat)
+🇫🇷 ![Francês](https://img.shields.io/badge/-Français%20(Básico)-002654?style=flat)
 
 **Recomendação**
 _"Iury é um desenvolvedor sênior que se destaca por sua excelência técnica e visão arquitetural. Com especialização em Go e profundo conhecimento em arquiteturas distribuídas, demonstra consistentemente sua capacidade de desenvolver soluções robustas e escaláveis. Seu diferencial está na habilidade de compreender profundamente os fluxos de negócio antes de propor soluções técnicas, resultando em arquiteturas que realmente atendem às necessidades do produto. Tem forte compromisso com a qualidade do código e boas práticas de desenvolvimento, influenciando positivamente os padrões técnicos da equipe. Seu perfil técnico sólido, combinado com excelentes habilidades de comunicação e mentoria, o tornam um candidato natural para posições de liderança técnica. Mantém-se constantemente atualizado com as melhores práticas de desenvolvimento e arquitetura de software, contribuindo ativamente para a evolução técnica do time."_

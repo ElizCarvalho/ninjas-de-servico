@@ -217,7 +217,7 @@ _"Rubens is a versatile developer with a passion for technology, who stands out 
 ### 🥷 THALLISON RANIERE ![Experience](https://img.shields.io/badge/Experience-7%2B%20Years-brightgreen)
 
 **Bio**
-_"In construction"_
+_"Senior Developer with over 7 years of software development experience, graduated in Information Systems and certified Google Associate Cloud Engineer. Works on the development and maintenance of a critical hotel reservation system that processes thousands of daily transactions, ensuring high availability and performance. Specialist in Python and distributed architectures, with solid experience in Cloud Computing and scalable systems. Combines deep technical knowledge with strategic business vision, effectively contributing to the evolution and optimization of complex systems."_
 
 **Level & Location**
 ![Mid-Level/Senior](https://img.shields.io/badge/-Mid--Level%2FSenior-2F4F4F?style=flat)
