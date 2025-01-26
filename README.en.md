@@ -419,39 +419,56 @@ _"In construction"_
 **Level & Location**
 ![Senior](https://img.shields.io/badge/-Senior-004225?style=flat)
 ![Remote](https://img.shields.io/badge/-Remote-8A2BE2?style=flat)
+![São Paulo](https://img.shields.io/badge/-São%20Paulo-gray?style=flat)
 
 **Networks**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/dourado-luis/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/douradoluis)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luis-dourado-09722a212/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/lutefd)
 
 **Main Technologies**
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFA500?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 **Frameworks & Tools**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![CursorAI](https://img.shields.io/badge/-CursorAI-4B32C3?style=flat&logo=cursor&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-00ADD8?style=flat&logo=grpc&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Message Broker](https://img.shields.io/badge/-Message%20Broker-FF6B6B?style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-2496ED?style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![NSQ](https://img.shields.io/badge/-NSQ-00ADD8?style=flat)
+![Office](https://img.shields.io/badge/-Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat&logo=owasp&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
+![REST](https://img.shields.io/badge/-REST-000000?style=flat)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 **DevOps & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Languages**
 ![Portuguese (Native)](https://img.shields.io/badge/🇧🇷%20Portuguese-Native-green)
-![English (Advanced)](https://img.shields.io/badge/🇺🇸%20English-Advanced-blue)
-![Italiano (Intermediate)](https://img.shields.io/badge/🇮🇹%20Italiano-Intermediate-008C45?style=flat)
-![Français (Intermediate)](https://img.shields.io/badge/🇫🇷%20Français-Intermediate-002654?style=flat)
+![English (Fluent)](https://img.shields.io/badge/🇺🇸%20English-Fluent-blue)
+![Italian (Intermediate)](https://img.shields.io/badge/🇮🇹%20Italian-Intermediate-008C45?style=flat)
+![French (Intermediate)](https://img.shields.io/badge/🇫🇷%20French-Intermediate-002654?style=flat)
 
 **Recommendation**
 _"Dourado is an exceptional developer who combines deep technical knowledge with a strategic business vision. His expertise in distributed architectures, microservices, and event-driven systems is remarkable, having led complex projects such as integrations with Apache Kafka and the rewriting of critical libraries. He stands out for his ability to masterfully navigate technical challenges, whether investigating complex problems or making important architectural decisions, always aligned with business objectives. In addition to his impressive technical proficiency in Go, Python, and distributed systems, he possesses excellent communication and mentoring skills, with strong engagement in creating documentation and support materials for the team. His fluency in multiple languages and international experience, combined with his proactivity and dedication to continuous learning, make him a truly distinguished professional. He has the potential to be a technical leader, not only through his high-quality deliverables and solutions, but also by elevating the entire team through his knowledge and collaboration."_
