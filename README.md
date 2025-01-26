@@ -357,7 +357,7 @@ _"Erick é um desenvolvedor sênior que combina sólida expertise técnica com s
 ### 🥷 IURY DIAS ![Experience](https://img.shields.io/badge/Experience-7%2B%20Years-brightgreen)
 
 **Bio**
-_"Em construção"_
+_"Desenvolvedor Sênior especialista em Go, graduado em Ciência da Computação, com mais de 7 anos de experiência em desenvolvimento de sistemas de alta performance. Responsável por projetos críticos de grande escala, incluindo o sistema de wishlist, rastreamento de conversões de metasearchers (Google, Trivago, TripAdvisor) e desenvolvimento de gateway de disponibilidade de itinerários hoteleiros processando mais de 400 milhões de requisições diárias. Destaca-se por sua expertise em arquiteturas distribuídas, microsserviços e sistemas de alta disponibilidade, com forte histórico em otimização de performance e escalabilidade. Combina profundo conhecimento técnico com visão estratégica para desenvolver soluções robustas que impactam diretamente os resultados do negócio."_
 
 **Nível & Localização**
 ![Senior](https://img.shields.io/badge/-Senior-004225?style=flat)
