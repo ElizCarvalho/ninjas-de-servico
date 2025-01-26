@@ -55,7 +55,7 @@ _"Gabriel is a dedicated professional who consistently shows interest in learnin
 ### 🥷 MARCO AMES
 
 **Bio**
-_"In construction"_
+_"Computer Science student at PUCRS University, expected to graduate by the end of 2025. In his first professional experience, he stands out for his exceptional learning capacity and proactivity in solving challenges. His ability to quickly absorb new knowledge and natural talent for finding efficient solutions make him a promising professional in constant evolution."_
 
 **Level & Location**
 ![Assistant](https://img.shields.io/badge/-Assistant-004225?style=flat)

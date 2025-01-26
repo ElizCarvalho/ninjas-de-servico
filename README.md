@@ -54,7 +54,7 @@ _"Gabriel é um profissional dedicado que demonstra consistente interesse em apr
 ### 🥷 MARCO AMES
 
 **Bio**
-_"Em construção"_
+_"Graduando em Ciência da Computação pela PUCRS, com previsão de formatura para o final de 2025. Em sua primeira experiência profissional, destaca-se pela capacidade excepcional de aprendizado e proatividade na resolução de desafios. Sua facilidade em absorver novos conhecimentos e habilidade natural para encontrar soluções eficientes o tornam um profissional promissor em constante evolução."_
 
 **Nível & Localização**
 ![Assistente](https://img.shields.io/badge/-Assistente-004225?style=flat)
