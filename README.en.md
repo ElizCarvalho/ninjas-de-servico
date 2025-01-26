@@ -149,7 +149,7 @@ _"Lucas is an exceptional professional who stands out for both his technical and
 
 ---
 
-### 🥷 RUBENS DOS SANTOS
+### 🥷 RUBENS DOS SANTOS ![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-brightgreen)
 
 **Bio**
 _"In construction"_

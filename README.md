@@ -149,7 +149,7 @@ _"Lucas é um profissional excepcional que se destaca tanto por suas habilidades
 
 ---
 
-### 🥷 RUBENS DOS SANTOS
+### 🥷 RUBENS DOS SANTOS ![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-brightgreen)
 
 **Bio**
 _"Em construção"_
