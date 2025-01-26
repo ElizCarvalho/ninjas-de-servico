@@ -95,7 +95,7 @@ _"Marco é um desenvolvedor dedicado e proativo, que se destaca por sua capacida
 
 ---
 
-### 🥷 LUCAS NUNES ![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-brightgreen)
+### 🥷 LUCAS NUNES ![Experiência](https://img.shields.io/badge/Experiência-2%2B%20Anos-brightgreen)
 
 **Bio**
 _"Desenvolvedor com quase 3 anos de experiência, combinando sólidos conhecimentos técnicos com uma valiosa bagagem em Produto e Inovação. Destaca-se pela visão holística do negócio e capacidade de traduzir necessidades em soluções efetivas. Reconhecido por sua forte iniciativa, ownership e habilidade natural para trabalho em equipe. Seus insights perspicazes e comprometimento com resultados o tornam um profissional que agrega valor além do código."_
@@ -149,7 +149,7 @@ _"Lucas é um profissional excepcional que se destaca tanto por suas habilidades
 
 ---
 
-### 🥷 RUBENS DOS SANTOS ![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-brightgreen)
+### 🥷 RUBENS DOS SANTOS ![Experiência](https://img.shields.io/badge/Experiência-3%2B%20Anos-brightgreen)
 
 **Bio**
 _"Desenvolvedor backend com mais de 3 anos de experiência em desenvolvimento de sistemas e APIs, utilizando principalmente Python e PHP. Atualmente expandindo conhecimentos em Go e cursando Ciência da Computação (conclusão em 2028). Experiência prática com Docker e microsserviços, tendo participado de projetos que envolvem integrações de sistemas e desenvolvimento de soluções escaláveis."_
@@ -215,7 +215,7 @@ _"Rubens é um desenvolvedor versátil e apaixonado por tecnologia, que se desta
 
 ---
 
-### 🥷 THALLISON RANIERE ![Experience](https://img.shields.io/badge/Experience-7%2B%20Years-brightgreen)
+### 🥷 THALLISON RANIERE ![Experiência](https://img.shields.io/badge/Experiência-7%2B%20Anos-brightgreen)
 
 **Bio**
 _"Desenvolvedor Sênior com mais de 7 anos de experiência em desenvolvimento de software, graduado em Sistemas de Informação e certificado Google Associate Cloud Engineer. Atua no desenvolvimento e manutenção de sistema crítico de reservas hoteleiras que processa milhares de transações diárias, garantindo alta disponibilidade e performance. Especialista em Python e arquiteturas distribuídas, com sólida experiência em Cloud Computing e sistemas escaláveis. Combina profundo conhecimento técnico com visão estratégica de negócios, contribuindo efetivamente para a evolução e otimização de sistemas complexos."_
@@ -289,7 +289,7 @@ _"Thallison é um desenvolvedor excepcional que faz uma diferença enorme em qua
 
 ---
 
-### 🥷 ERICK GLEDSON ![Experience](https://img.shields.io/badge/Experience-10%2B%20Years-brightgreen)
+### 🥷 ERICK GLEDSON ![Experiência](https://img.shields.io/badge/Experiência-10%2B%20Anos-brightgreen)
 
 **Bio**
 _"Desenvolvedor Sênior com mais de 10 anos de experiência, graduado em Sistemas de Informação com especializações em Arquitetura de Sistemas Distribuídos e IA/ML. Atualmente é referência técnica e principal mantenedor dos sistemas críticos de busca e indexação que processam milhões de requisições diárias. Especialista em Elasticsearch, liderou a evolução da infraestrutura de busca da empresa, garantindo alta disponibilidade e performance. Combina expertise técnica com visão arquitetural para desenvolver soluções escaláveis e resilientes. Forte atuação em projetos de IA/ML e sistemas distribuídos, com histórico comprovado em otimização de performance e arquiteturas de alta disponibilidade."_
@@ -354,7 +354,7 @@ _"Erick é um desenvolvedor sênior que combina sólida expertise técnica com s
 
 ---
 
-### 🥷 IURY DIAS ![Experience](https://img.shields.io/badge/Experience-7%2B%20Years-brightgreen)
+### 🥷 IURY DIAS ![Experiência](https://img.shields.io/badge/Experiência-7%2B%20Anos-brightgreen)
 
 **Bio**
 _"Desenvolvedor Sênior especialista em Go, graduado em Ciência da Computação, com mais de 7 anos de experiência em desenvolvimento de sistemas de alta performance. Responsável por projetos críticos de grande escala, incluindo o sistema de wishlist, rastreamento de conversões de metasearchers (Google, Trivago, TripAdvisor) e desenvolvimento de gateway de disponibilidade de itinerários hoteleiros processando mais de 400 milhões de requisições diárias. Destaca-se por sua expertise em arquiteturas distribuídas, microsserviços e sistemas de alta disponibilidade, com forte histórico em otimização de performance e escalabilidade. Combina profundo conhecimento técnico com visão estratégica para desenvolver soluções robustas que impactam diretamente os resultados do negócio."_
@@ -412,7 +412,7 @@ _"Iury é um desenvolvedor sênior que se destaca por sua excelência técnica e
 
 ---
 
-### 🥷 LUIS DOURADO ![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen)
+### 🥷 LUIS DOURADO ![Experiência](https://img.shields.io/badge/Experiência-5%2B%20Anos-brightgreen)
 
 **Bio**
 _"Desenvolvedor Sênior especialista em Go, com forte domínio técnico e capacidade analítica excepcional. Graduando em Ciência da Computação (previsão 2026), combina conhecimento acadêmico com experiência prática em arquiteturas complexas. Liderou projetos técnicos desafiadores, incluindo o desenvolvimento de uma biblioteca NSQ customizada para PHP 5.5 e a migração bem-sucedida do WordPress para Strapi CMS. Destaca-se por seu aprofundamento técnico na tomada de decisões arquiteturais, sempre buscando as melhores soluções para cada desafio. Sua capacidade de análise profunda e visão sistêmica o tornam um profissional diferenciado na concepção e implementação de soluções robustas e escaláveis."_
@@ -476,7 +476,7 @@ _"Dourado é um desenvolvedor excepcional que combina profundo conhecimento téc
 
 ---
 
-### 🥷 ELIS CARVALHO ![Experience](https://img.shields.io/badge/Experience-10%2B%20Years-brightgreen)
+### 🥷 ELIS CARVALHO ![Experiência](https://img.shields.io/badge/Experiência-10%2B%20Anos-brightgreen)
 
 **Bio**
 _"Tech Lead com mais de 10 anos de experiência em desenvolvimento de software e gestão de equipes. Especializada em arquiteturas distribuídas, microsserviços e sistemas de alta disponibilidade. Forte experiência em desenvolvimento backend, com foco em performance e escalabilidade. Conduz regularmente 1:1s, mentorias técnicas e sessões de feedback, promovendo o crescimento contínuo do time. Vasta experiência com metodologias ágeis, atuando com Scrum e Kanban, facilitando cerimônias e garantindo a entrega contínua de valor. Comprometida com boas práticas de desenvolvimento e construção de times de alto desempenho."_
