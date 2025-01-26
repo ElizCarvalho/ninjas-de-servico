@@ -292,7 +292,7 @@ _"Thallison é um desenvolvedor excepcional que faz uma diferença enorme em qua
 ### 🥷 ERICK GLEDSON ![Experience](https://img.shields.io/badge/Experience-10%2B%20Years-brightgreen)
 
 **Bio**
-_"Em construção"_
+_"Desenvolvedor Sênior com mais de 10 anos de experiência, graduado em Sistemas de Informação com especializações em Arquitetura de Sistemas Distribuídos e IA/ML. Atualmente é referência técnica e principal mantenedor dos sistemas críticos de busca e indexação que processam milhões de requisições diárias. Especialista em Elasticsearch, liderou a evolução da infraestrutura de busca da empresa, garantindo alta disponibilidade e performance. Combina expertise técnica com visão arquitetural para desenvolver soluções escaláveis e resilientes. Forte atuação em projetos de IA/ML e sistemas distribuídos, com histórico comprovado em otimização de performance e arquiteturas de alta disponibilidade."_
 
 **Nível & Localização**
 ![Senior](https://img.shields.io/badge/-Senior-004225?style=flat)

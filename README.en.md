@@ -291,7 +291,7 @@ _"Thallison is an exceptional developer who makes a tremendous difference in any
 ### 🥷 ERICK GLEDSON ![Experience](https://img.shields.io/badge/Experience-10%2B%20Years-brightgreen)
 
 **Bio**
-_"In construction"_
+_"Senior Developer with over 10 years of experience, graduated in Information Systems with specializations in Distributed Systems Architecture and AI/ML. Currently serves as technical reference and main maintainer of critical search and indexing systems processing millions of daily requests. Elasticsearch specialist who led the company's search infrastructure evolution, ensuring high availability and performance. Combines technical expertise with architectural vision to develop scalable and resilient solutions. Strong involvement in AI/ML projects and distributed systems, with a proven track record in performance optimization and high-availability architectures."_
 
 **Level & Location**
 ![Senior](https://img.shields.io/badge/-Senior-004225?style=flat)
