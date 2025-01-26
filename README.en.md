@@ -411,7 +411,7 @@ _"Iury is a senior developer who stands out for his technical excellence and arc
 
 ---
 
-### 🥷 LUIS DOURADO
+### 🥷 LUIS DOURADO ![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen)
 
 **Bio**
 _"In construction"_

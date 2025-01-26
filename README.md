@@ -412,7 +412,7 @@ _"Iury é um desenvolvedor sênior que se destaca por sua excelência técnica e
 
 ---
 
-### 🥷 LUIS DOURADO
+### 🥷 LUIS DOURADO ![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen)
 
 **Bio**
 _"Em construção"_
