@@ -288,7 +288,7 @@ _"Thallison is an exceptional developer who makes a tremendous difference in any
 
 ---
 
-### 🥷 ERICK GLEDSON
+### 🥷 ERICK GLEDSON ![Experience](https://img.shields.io/badge/Experience-10%2B%20Years-brightgreen)
 
 **Bio**
 _"In construction"_
