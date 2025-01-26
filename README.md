@@ -354,7 +354,7 @@ _"Erick é um desenvolvedor sênior que combina sólida expertise técnica com s
 
 ---
 
-### 🥷 IURY DIAS
+### 🥷 IURY DIAS ![Experience](https://img.shields.io/badge/Experience-7%2B%20Years-brightgreen)
 
 **Bio**
 _"Em construção"_
