@@ -99,7 +99,7 @@ _"Marco is a dedicated and proactive developer who stands out for his ability to
 ### 🥷 LUCAS GOMES
 
 **Bio**
-_"In construction"_
+_"Developer with nearly 3 years of experience, combining solid technical knowledge with valuable background in Product and Innovation. Stands out for his holistic business vision and ability to translate needs into effective solutions. Recognized for his strong initiative, ownership, and natural teamwork ability. His insightful perspectives and commitment to results make him a professional who adds value beyond code."_
 
 **Level & Location**
 ![Junior/Mid-Level](https://img.shields.io/badge/-Junior%2FMid--Level-gray?style=flat)
