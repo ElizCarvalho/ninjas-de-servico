@@ -414,7 +414,7 @@ _"Iury is a senior developer who stands out for his technical excellence and arc
 ### 🥷 LUIS DOURADO ![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen)
 
 **Bio**
-_"In construction"_
+_"Senior Developer and Go specialist with exceptional technical mastery and analytical capabilities. Currently pursuing a Computer Science degree (expected 2026), combining academic knowledge with hands-on experience in complex architectures. Led challenging technical projects, including the development of a custom NSQ library for PHP 5.5 and successful migration from WordPress to Strapi CMS. Distinguished by his deep technical understanding in architectural decision-making, always seeking the best solutions for each challenge. His in-depth analysis capabilities and systemic vision make him a standout professional in designing and implementing robust, scalable solutions."_
 
 **Level & Location**
 ![Senior](https://img.shields.io/badge/-Senior-004225?style=flat)

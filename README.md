@@ -415,7 +415,7 @@ _"Iury é um desenvolvedor sênior que se destaca por sua excelência técnica e
 ### 🥷 LUIS DOURADO ![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen)
 
 **Bio**
-_"Em construção"_
+_"Desenvolvedor Sênior especialista em Go, com forte domínio técnico e capacidade analítica excepcional. Graduando em Ciência da Computação (previsão 2026), combina conhecimento acadêmico com experiência prática em arquiteturas complexas. Liderou projetos técnicos desafiadores, incluindo o desenvolvimento de uma biblioteca NSQ customizada para PHP 5.5 e a migração bem-sucedida do WordPress para Strapi CMS. Destaca-se por seu aprofundamento técnico na tomada de decisões arquiteturais, sempre buscando as melhores soluções para cada desafio. Sua capacidade de análise profunda e visão sistêmica o tornam um profissional diferenciado na concepção e implementação de soluções robustas e escaláveis."_
 
 **Nível & Localização**
 ![Senior](https://img.shields.io/badge/-Senior-004225?style=flat)
