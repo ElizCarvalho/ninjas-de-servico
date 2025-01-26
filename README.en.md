@@ -475,7 +475,7 @@ _"Dourado is an exceptional developer who combines deep technical knowledge with
 
 ---
 
-### 🥷 ELIS CARVALHO
+### 🥷 ELIS CARVALHO ![Experience](https://img.shields.io/badge/Experience-10%2B%20Years-brightgreen)
 
 **Bio**
 _"Tech Lead with over 10 years of experience in software development and team management. Specialized in distributed architectures, microservices, and high-availability systems. Strong experience in backend development, with a focus on performance and scalability. Regularly conducts 1:1s, technical mentoring, and feedback sessions, fostering the continuous growth of the team. Extensive experience with agile methodologies, working with Scrum and Kanban, facilitating ceremonies and ensuring the continuous delivery of value. Committed to best development practices and building high-performing teams."_

@@ -476,7 +476,7 @@ _"Dourado é um desenvolvedor excepcional que combina profundo conhecimento téc
 
 ---
 
-### 🥷 ELIS CARVALHO
+### 🥷 ELIS CARVALHO ![Experience](https://img.shields.io/badge/Experience-10%2B%20Years-brightgreen)
 
 **Bio**
 _"Tech Lead com mais de 10 anos de experiência em desenvolvimento de software e gestão de equipes. Especializada em arquiteturas distribuídas, microsserviços e sistemas de alta disponibilidade. Forte experiência em desenvolvimento backend, com foco em performance e escalabilidade. Conduz regularmente 1:1s, mentorias técnicas e sessões de feedback, promovendo o crescimento contínuo do time. Vasta experiência com metodologias ágeis, atuando com Scrum e Kanban, facilitando cerimônias e garantindo a entrega contínua de valor. Comprometida com boas práticas de desenvolvimento e construção de times de alto desempenho."_
