@@ -152,7 +152,7 @@ _"Lucas is an exceptional professional who stands out for both his technical and
 ### 🥷 RUBENS DOS SANTOS ![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-brightgreen)
 
 **Bio**
-_"In construction"_
+_"Backend developer with over 3 years of experience in systems and API development, primarily using Python and PHP. Currently expanding knowledge in Go and pursuing a Computer Science degree (expected graduation in 2028). Hands-on experience with Docker and microservices, having participated in projects involving system integrations and development of scalable solutions."_
 
 **Level & Location**
 ![Junior/Mid-Level](https://img.shields.io/badge/-Junior%2FMid--Level-gray?style=flat)

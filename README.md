@@ -152,7 +152,7 @@ _"Lucas é um profissional excepcional que se destaca tanto por suas habilidades
 ### 🥷 RUBENS DOS SANTOS ![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-brightgreen)
 
 **Bio**
-_"Em construção"_
+_"Desenvolvedor backend com mais de 3 anos de experiência em desenvolvimento de sistemas e APIs, utilizando principalmente Python e PHP. Atualmente expandindo conhecimentos em Go e cursando Ciência da Computação (conclusão em 2028). Experiência prática com Docker e microsserviços, tendo participado de projetos que envolvem integrações de sistemas e desenvolvimento de soluções escaláveis."_
 
 **Nível & Localização**
 ![Pleno](https://img.shields.io/badge/-Júnior%2FPleno-gray?style=flat)
