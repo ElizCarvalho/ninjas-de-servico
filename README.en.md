@@ -214,7 +214,7 @@ _"Rubens is a versatile developer with a passion for technology, who stands out 
 
 ---
 
-### 🥷 THALLISON RANIERE
+### 🥷 THALLISON RANIERE ![Experience](https://img.shields.io/badge/Experience-7%2B%20Years-brightgreen)
 
 **Bio**
 _"In construction"_
