@@ -95,7 +95,7 @@ _"Marco é um desenvolvedor dedicado e proativo, que se destaca por sua capacida
 
 ---
 
-### 🥷 LUCAS GOMES
+### 🥷 LUCAS GOMES ![Experience](https://img.shields.io/badge/Experience-2%2B%20Years-brightgreen)
 
 **Bio**
 _"Desenvolvedor com quase 3 anos de experiência, combinando sólidos conhecimentos técnicos com uma valiosa bagagem em Produto e Inovação. Destaca-se pela visão holística do negócio e capacidade de traduzir necessidades em soluções efetivas. Reconhecido por sua forte iniciativa, ownership e habilidade natural para trabalho em equipe. Seus insights perspicazes e comprometimento com resultados o tornam um profissional que agrega valor além do código."_
