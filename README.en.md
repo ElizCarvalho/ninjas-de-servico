@@ -161,6 +161,7 @@ _"Backend developer with over 3 years of experience in systems and API developme
 **Networks**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaetaen/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kaetaen)
+[![Blog](https://img.shields.io/badge/dev.to-community?style=flat&logo=dev.to&logoColor=white&color=black)](https://dev.to/kaetaen)
 
 **Main Technologies**
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
