@@ -2,7 +2,7 @@
 
 [[Versão em Português]](./README.md)
 
-Welcome to Service Ninjas - a group of technology professionals ready for new challenges!
+Welcome to Service Ninjas - a group of professionals ready for challenges!
 
 ## Our Team
 
@@ -211,6 +211,77 @@ _"Backend developer with over 3 years of experience in systems and API developme
 
 **Recommendation**
 _"Rubens is a versatile developer with a passion for technology, who stands out for both his technical skills and his continuous growth. His adaptability is remarkable – even with a primary focus on backend development, he shows great willingness to work with different technologies such as PHP, Go, Python, and Node.js, always maintaining clean and organized code. His contributions to the open-source community and his commitment to best practices are exemplary. On the soft skills side, he impresses with his excellent communication, active participation in agile ceremonies, and constant openness to feedback. He is a professional who truly embraces every growth opportunity, making a difference in any team he joins through his dedication, collaboration, and continuous pursuit of improvement."_
+
+---
+
+### 🥷 RAFAEL BARBOSA ![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-brightgreen)
+
+**Bio**
+_"Developer with experience in multiple technologies, including Go, Node.js, Next.js, and Java, focused on building effective and efficient solutions. Quickly evolved from Junior to Mid-Level, standing out in leading a critical interface for operations and mentoring junior developers. Has knowledge in code design and software architecture, combining technical expertise with business understanding. Demonstrates exceptional ability in high-performance systems, enthusiastically tackling complex problems and refining existing architectures. Values collaboration and knowledge sharing as fundamental elements for team success. His balanced approach between frontend and backend, with growing specialization in the latter, reflects his holistic view of software development."_
+
+**Level & Location**
+![Mid-Level/Senior](https://img.shields.io/badge/-Mid--Level%2FSenior-2F4F4F?style=flat)
+![Remote](https://img.shields.io/badge/-Remote-8A2BE2?style=flat)
+![Rio de Janeiro](https://img.shields.io/badge/-Rio%20de%20Janeiro-gray?style=flat)
+
+**Networks**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-barbosa-2b0bb7103)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RafaelBarbosa09)
+
+**Main Technologies**
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+
+**Frameworks & Tools**
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
+![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
+![Microservices](https://img.shields.io/badge/-Microservices-2496ED?style=flat)
+![Message Broker](https://img.shields.io/badge/-Message%20Broker-FF6B6B?style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)
+![CursorAI](https://img.shields.io/badge/-CursorAI-4B32C3?style=flat&logo=cursor&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat)
+![NSQ](https://img.shields.io/badge/-NSQ-00ADD8?style=flat)
+![ORM](https://img.shields.io/badge/-ORM-FF6B6B?style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![REST](https://img.shields.io/badge/-REST-000000?style=flat)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![UnitTest](https://img.shields.io/badge/-UnitTest-25A162?style=flat)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-aca69f?logo=Hibernate&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
+
+**DevOps & Infrastructure**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![SQLServer](https://img.shields.io/badge/-SQLServer-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+**Languages**
+![Portuguese (Native)](https://img.shields.io/badge/🇧🇷%20Portuguese-Native-green)
+![English (Basic)](https://img.shields.io/badge/🇺🇸%20English-Basic-lightgray)
+
+**Recommendation**
+_"Half is a remarkable developer who impresses with his rapid evolution and technical versatility. During our year working together, I had the privilege of following his journey from Junior to Mid-Level, where he demonstrated not only exceptional technical growth but also a rare ability to deeply understand the business context. His leadership in developing the new interface for the Operations team revealed his ability to conduct technical studies, refine requirements, and articulate solutions alongside product and design areas. What truly distinguishes Half is his unique combination of technical competence with a genuine collaborative aptitude - he not only absorbs feedback with maturity but also already mentors less experienced developers. His ability to navigate between frontend and backend, although he is specializing in the latter, demonstrates a holistic view of development that results in truly integrated solutions. It's inspiring to see how he connects technical knowledge with practical purpose, creating solutions that really positively impact users and the business. Any team would be greatly benefited by his presence, as Half not only elevates the technical level but also contributes to a collaborative environment focused on results."_
 
 ---
 
