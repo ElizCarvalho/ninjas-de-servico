@@ -1,0 +1,36 @@
+name: Validate Profile
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'README.en.md'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          
+      - name: Install dependencies
+        run: npm install -g markdownlint-cli
+        
+      - name: Check profile format
+        run: |
+          # Verifica padrões básicos de formatação
+          markdownlint README.md README.en.md
+          
+          # Verifica se tem as seções obrigatórias
+          cat README.md | grep -c "### 🥷" || echo "Faltando cabeçalho de perfil"
+          cat README.md | grep -c "**Bio**" || echo "Faltando seção Bio"
+          cat README.md | grep -c "**Nível & Localização**" || echo "Faltando seção Nível & Localização"
+          
+          # Verifica versão em inglês
+          cat README.en.md | grep -c "### 🥷" || echo "Faltando cabeçalho de perfil na versão em inglês"
+          cat README.en.md | grep -c "**Bio**" || echo "Faltando seção Bio na versão em inglês"
+          cat README.en.md | grep -c "**Level & Location**" || echo "Faltando seção Level & Location na versão em inglês" 
