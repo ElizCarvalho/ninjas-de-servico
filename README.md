@@ -2,7 +2,7 @@
 
 [[English version]](./README.en.md)
 
-Bem-vindo ao Ninjas de Serviço - um grupo de profissionais de tecnologia prontos para novos desafios!
+Bem-vindo ao Ninjas de Serviço - um grupo de profissionais prontos para desafios!
 
 ## Nossos Ninjas
 
@@ -212,6 +212,77 @@ _"Desenvolvedor backend com mais de 3 anos de experiência em desenvolvimento de
 
 **Recomendação**
 _"Rubens é um desenvolvedor versátil e apaixonado por tecnologia, que se destaca tanto por suas habilidades técnicas quanto por seu crescimento constante. Sua capacidade de adaptação é notável - mesmo tendo o backend como foco principal, demonstra grande disposição em trabalhar com diferentes tecnologias como PHP, Go, Python e Node.js, sempre mantendo o código limpo e organizado. Sua contribuição para a comunidade open source e comprometimento com boas práticas são exemplares. Nas soft skills, impressiona por sua excelente comunicação, participação ativa em cerimônias ágeis e abertura constante a feedbacks. É um profissional que verdadeiramente abraça cada oportunidade de crescimento, fazendo a diferença em qualquer equipe que participa através de sua dedicação, colaboração e busca contínua por evolução."_
+
+---
+
+### 🥷 RAFAEL BARBOSA ![Experiência](https://img.shields.io/badge/Experiência-5%2B%20Anos-brightgreen)
+
+**Bio**
+_"Desenvolvedor com experiência em múltiplas tecnologias, incluindo Go, Node.js, Next.js e Java, com foco na construção de soluções eficazes e eficientes. Evoluiu rapidamente de Junior para Pleno, destacando-se na liderança de uma interface crítica para operações e mentoria de desenvolvedores iniciantes. Possui conhecimento em design de código e arquitetura de software, combina expertise técnica com compreensão de negócios. Demonstra habilidade excepcional em sistemas de alto desempenho, enfrentando com entusiasmo problemas complexos e refinando arquiteturas existentes. Valoriza a colaboração e o compartilhamento de conhecimento como elementos fundamentais para o sucesso das equipes. Sua abordagem equilibrada entre frontend e backend, com especialização crescente neste último, reflete sua visão holística do desenvolvimento de software."_
+
+**Nível & Localização**
+![Pleno/Senior](https://img.shields.io/badge/-Pleno%2FSenior-2F4F4F?style=flat)
+![Remoto](https://img.shields.io/badge/-Remoto-8A2BE2?style=flat)
+![Rio de Janeiro](https://img.shields.io/badge/-Rio%20de%20Janeiro-gray?style=flat)
+
+**Redes**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-barbosa-2b0bb7103)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/RafaelBarbosa09)
+
+**Principais Tecnologias**
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
+
+**Frameworks & Ferramentas**
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
+![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
+![Microservices](https://img.shields.io/badge/-Microservices-2496ED?style=flat)
+![Message Broker](https://img.shields.io/badge/-Message%20Broker-FF6B6B?style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)
+![CursorAI](https://img.shields.io/badge/-CursorAI-4B32C3?style=flat&logo=cursor&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Kanban](https://img.shields.io/badge/-Kanban-0052CC?style=flat)
+![NSQ](https://img.shields.io/badge/-NSQ-00ADD8?style=flat)
+![ORM](https://img.shields.io/badge/-ORM-FF6B6B?style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![REST](https://img.shields.io/badge/-REST-000000?style=flat)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![UnitTest](https://img.shields.io/badge/-UnitTest-25A162?style=flat)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+![JPA](https://img.shields.io/badge/JPA-Hibernate-aca69f?logo=Hibernate&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
+
+**DevOps & Infraestrutura**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![SQLServer](https://img.shields.io/badge/-SQLServer-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+**Idiomas**
+🇧🇷 ![Português](https://img.shields.io/badge/-Português%20(Nativo)-009739?style=flat)
+🇺🇸 ![Inglês](https://img.shields.io/badge/-Inglês%20(Básico)-1B4B94?style=flat)
+
+**Recomendação**
+_"Half é um desenvolvedor notável que impressiona por sua rápida evolução e versatilidade técnica. Durante nosso ano trabalhando juntos, tive o privilégio de acompanhar sua jornada do nível Junior ao Pleno, onde demonstrou não apenas crescimento técnico excepcional, mas também uma rara capacidade de entender profundamente o contexto de negócio. Sua liderança no desenvolvimento da nova interface para o time de Operações revelou sua habilidade em conduzir estudos técnicos, refinar requisitos e articular soluções junto às áreas de produto e design. O que verdadeiramente distingue o Half é sua combinação única de competência técnica com uma genuína aptidão colaborativa - ele não apenas absorve feedbacks com maturidade, mas também já atua mentorando desenvolvedores menos experientes. Sua capacidade de navegar entre frontend e backend, embora esteja se especializando neste último, demonstra uma visão holística de desenvolvimento que resulta em soluções realmente integradas. É inspirador ver como ele conecta conhecimento técnico com propósito prático, criando soluções que realmente impactam positivamente os usuários e o negócio. Qualquer equipe seria enormemente beneficiada pela sua presença, pois o Half não apenas eleva o nível técnico, mas também contribui para um ambiente colaborativo e focado em resultados."_
 
 ---
 
