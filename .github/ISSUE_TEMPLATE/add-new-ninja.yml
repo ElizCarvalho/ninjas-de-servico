@@ -1,0 +1,117 @@
+name: "Adicionar Novo Ninja"
+description: "Use este template para adicionar um novo membro à lista"
+title: "add: [Nome do Membro]"
+labels: ["new-ninja"]
+body:
+  - type: markdown
+    attributes:
+      value: "## Informações do Membro"
+  - type: input
+    id: nome
+    attributes:
+      label: "Nome Completo"
+      placeholder: "Ex: João Silva"
+    validations:
+      required: true
+  - type: input
+    id: experiencia
+    attributes:
+      label: "Anos de Experiência"
+      placeholder: "Ex: 5+"
+    validations:
+      required: true
+  - type: textarea
+    id: bio
+    attributes:
+      label: "Bio Profissional (PT-BR)"
+      description: "Breve descrição profissional em português (máx 500 caracteres)"
+    validations:
+      required: true
+  - type: textarea
+    id: bio_en
+    attributes:
+      label: "Bio Profissional (EN)"
+      description: "Breve descrição profissional em inglês (máx 500 caracteres)"
+    validations:
+      required: true
+  - type: dropdown
+    id: nivel
+    attributes:
+      label: "Nível"
+      options:
+        - Estagiário/Intern
+        - Júnior/Junior
+        - Pleno/Mid-Level
+        - Sênior/Senior
+        - Tech Lead
+    validations:
+      required: true
+  - type: input
+    id: localizacao
+    attributes:
+      label: "Localização"
+      placeholder: "Ex: São Paulo"
+    validations:
+      required: true
+  - type: dropdown
+    id: modalidade
+    attributes:
+      label: "Modalidade de Trabalho"
+      options:
+        - Remoto/Remote
+        - Presencial/On-site
+        - Híbrido/Hybrid
+    validations:
+      required: true
+  - type: input
+    id: linkedin
+    attributes:
+      label: "LinkedIn"
+      placeholder: "https://www.linkedin.com/in/seuperfil/"
+  - type: input
+    id: github
+    attributes:
+      label: "GitHub"
+      placeholder: "https://github.com/seuusuario"
+  - type: textarea
+    id: tecnologias
+    attributes:
+      label: "Principais Tecnologias"
+      description: "Liste suas principais tecnologias (separadas por vírgula)"
+      placeholder: "Ex: Go, Python, JavaScript, Java"
+    validations:
+      required: true
+  - type: textarea
+    id: frameworks
+    attributes:
+      label: "Frameworks & Ferramentas"
+      description: "Liste seus frameworks e ferramentas (separados por vírgula)"
+      placeholder: "Ex: React, Node.js, Docker, Git"
+    validations:
+      required: true
+  - type: textarea
+    id: devops
+    attributes:
+      label: "DevOps & Infraestrutura"
+      description: "Liste suas tecnologias de DevOps e infraestrutura (separadas por vírgula)"
+      placeholder: "Ex: Docker, Kubernetes, AWS, Linux"
+  - type: textarea
+    id: idiomas
+    attributes:
+      label: "Idiomas"
+      description: "Liste os idiomas que você fala e seus níveis"
+      placeholder: "Ex: Português (Nativo), Inglês (Intermediário), Espanhol (Básico)"
+    validations:
+      required: true
+  - type: textarea
+    id: recomendacao
+    attributes:
+      label: "Recomendação (PT-BR)"
+      description: "Uma recomendação profissional em português (opcional)"
+      placeholder: "Ex: 'João é um desenvolvedor excepcional que...'"
+  - type: textarea
+    id: recomendacao_en
+    attributes:
+      label: "Recomendação (EN)"
+      description: "Uma recomendação profissional em inglês (opcional)"
+      placeholder: "Ex: 'João is an exceptional developer who...'" 
